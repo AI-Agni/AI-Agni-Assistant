@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Agni Assistant",
+  "description": "A real-time, 3D animated virtual assistant powered by AI Agni.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
